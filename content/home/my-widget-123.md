@@ -9,4 +9,10 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: molab_logo_flat.png
 ---
+Test
+
+![](molab_logo_flat.png)
+
+bla
