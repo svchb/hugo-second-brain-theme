@@ -3,6 +3,6 @@
 type: wowchemycms
 private: true
 outputs:
-  - wowchemycms
+  - wowchemycms_config
   - HTML
 ---
